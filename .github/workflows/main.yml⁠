@@ -1,0 +1,31 @@
+name: Generate Cyber-Industrial Visuals
+
+on:
+  schedule:
+    # Exécution automatique toutes les 12 heures
+    - cron: "0 */12 * * *"
+  workflow_dispatch:
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v3
+      
+      # Génération du Serpent d'Activité
+      - uses: Platane/snk@v3
+        with:
+          github_user_name: ${{ github.repository_owner }}
+          outputs: |
+            dist/github-snake.svg?color_snake=#EAB308&color_dots=#0B0F15,#4C1D95,#A855F7,#0EA5E9,#38BDF8
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          
+      # Pousser les fichiers générés dans une branche cachée "output"
+      - name: Push to Output Branch
+        uses: crazy-max/ghaction-github-pages@v3.1.0
+        with:
+          target_branch: output
+          build_dir: dist
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
