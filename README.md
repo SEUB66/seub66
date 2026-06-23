@@ -1,42 +1,35 @@
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=SEUB66&theme=tokyonight&hide_border=true)](https://git.io/streak-stats)
+# Sébastien Germain // Architecte Logiciel Senior
 
-# ⚡ CORE_ARCH: SEUB66 // UNDERGROUND INDUSTRIAL DEV
-
-  ⚡ STATUS: EXITING_LABORATORY
-  ⚡ ACCELERATION: 53,500+ COMMITS // < 1 YEAR
-  ⚡ ARCHITECTURE: ROBUST_FULL_STACK // PRIVATE_INFRA
-  
-- ⚡ Fun fact: I COMMITED 3x more than the #1 on leaderboards
---> MYSTERY CODING MACHINE
+Architecte de solutions d'entreprise sur mesure et ingénieur Full-Stack. Conception de systèmes nerveux numériques pour infrastructures lourdes, ERP industriels et plateformes opérationnelles de terrain.
 
 ---
 
-## 🛠️ THE SYSTEM APPARATUS
+### ⚙️ Profil de Production
 
-> **"Data don't lie."** Pendant que les leaderboards dorment sur les profils publics, les vrais systèmes lourds se bâtissent dans l'ombre du laboratoire privé. 
-
-* **Languages & Core:** TypeScript, JavaScript (ESNext), Node.js, Shell Scripts.
-* **Heavy Infrastructure:** Enterprise ERP Platforms, Field Service Systems, Data Pipelines.
-* **Deployment Stack:** Cloudflare Network, Edge Computing, Supabase Datastores, Vercel Architectures.
+*   **Philosophie :** Développement haute vélocité en infrastructure privée. Le code stratégique reste sous clé; seules les métriques de performance sont exposées.
+*   **Architecture & Déploiement :** Écosystèmes distribués (Edge Computing), Cloudflare, Vercel, bases de données relationnelles et temps réel (Supabase).
+*   **Technologies Maîtresses :** TypeScript, JavaScript (ESNext), Node.js, Scripting Système.
 
 ---
 
-## 📊 LIVE ENGINES & PRODUCTION LOGS
+### 📊 Vélocité & Métriques Temps Réel
 
-Aquí se quema el motor. Voici les véritables métriques de production extraites directement de l'infrastructure privée, sans compromettre le code source déposé sur le perron :
+Pendant que les classements publics mesurent la popularité, l'activité brute ci-dessous valide une force d'exécution industrielle (Top 0.1% Global).
 
-### 🚀 ENGINE VELOCITY (REAL-TIME METRICS)
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=SEUB66&theme=tokyonight&hide_border=true&background=0d1117&sideNums=38bdf8&sideLabels=a855f7)](https://git.io/streak-stats)
+<p align="center">
+  <a href="https://git.io/streak-stats">
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=SEUB66&currStreakNum=38bdf8&sideNums=38bdf8&sideLabels=a855f7&dates=ffffff&fire=38bdf8&ring=38bdf8&background=0b0f15&hide_border=true" alt="GitHub Streak Stats" />
+  </a>
+</p>
 
-### ⚙️ UNDERGROUND SYSTEM METRICS
-* **Velocity Rank:** Top 0.1% Global Execution (53,500+ contributions since November).
-* **Security Model:** 100% Locked & Encrypted Repositories (`packetrocket`, `ghostpopo`, `opsbro`).
-* **Operational Fact:** Verified output is 3x higher than the official #1 ranked accounts on national leaderboards.
+*   **Intensité :** Plus de 53 500 contributions validées en moins d'un an (production continue depuis novembre).
+*   **Modèle de Sécurité :** Architecture distribuée sur dépôts sécurisés privés (`packetrocket`, `opsbro`, `ghostpopo`).
+*   **Volume Factuel :** Capacité de livraison et d'itération 3x supérieure au premier rang des leaderboards nationaux ouverts.
 
 ---
 
-## 📬 WIRE TRANSMISSION (CONNECT)
+### 📬 Mandats & Consultation
 
-```text
-  [!] COMPILING MANDATES & ARCHITECTURE ENQUIRIES
-  --> Connect directly via Secure Node / Personal Gateway
+Pour toute demande d'architecture logicielle sur mesure, audit de système ou mandat d'ingénierie complexe :
+
+👉 **Contact direct :** Via passerelle sécurisée GitHub (`@SEUB66`) ou messagerie professionnelle.
