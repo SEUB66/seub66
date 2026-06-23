@@ -6,6 +6,12 @@
 
 ---
 
+## ⬛ CORE MATRIX ACTIVITY
+
+<p align="center">
+  <img src="https://ghchart.rshah.org/38bdf8/SEUB66" alt="SEUB66's Contribution Block Graph" />
+</p>
+
 <p align="center">
   <a href="https://git.io/streak-stats">
     <img src="https://github-readme-streak-stats.herokuapp.com/?user=SEUB66&currStreakNum=38bdf8&sideNums=38bdf8&sideLabels=a855f7&dates=ffffff&fire=38bdf8&ring=38bdf8&background=0b0f15&hide_border=true" alt="GitHub Streak Stats" />
